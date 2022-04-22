@@ -28,3 +28,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Flowchart](https://user-images.githubusercontent.com/101557710/164710872-ec40190a-d327-45eb-b212-6a77348ba390.PNG)
