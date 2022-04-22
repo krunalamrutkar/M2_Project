@@ -11,3 +11,6 @@ CI and CD make the keystone of the modern DevOps environment. Nowadays, the CI/C
 
 
 
+
+
+![Continuous Integration](https://user-images.githubusercontent.com/101557710/164672683-86e89844-41df-40bb-a6a3-b65ff8b693e0.PNG)
